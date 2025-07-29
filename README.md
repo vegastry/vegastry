@@ -29,7 +29,7 @@ const vegastry = {
  <h2 align="center">Discord Profile</h2><br>
   <p align="center">
     <a href="https://discord.gg/">
-        <img title="Discord profile" alt="vegastry's discord" src="https://discord.c99.nl/widget/theme-4/290918329072353282.png"/>
+        <img title="Discord profile" alt="vegastry's discord" src="https://discord.c99.nl/widget/theme-4/1291973015722135675.png"/>
     </a>
 </p>
   <p align="center">
